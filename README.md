@@ -40,3 +40,12 @@ express.Router() is working
 express.Router() is working
 express.Router() is working
 express.Router() is working
+
+labuser@ubuntu2204:~/Desktop/frameworkexpress$ npm install pug
+
+added 39 packages, and audited 104 packages in 5s
+
+17 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
