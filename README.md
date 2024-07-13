@@ -49,3 +49,36 @@ added 39 packages, and audited 104 packages in 5s
   run `npm fund` for details
 
 found 0 vulnerabilities
+
+labuser@ubuntu2204:~/Desktop/frameworkexpress$ node errorHandling.js 
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Express JS Framework</title>
+    </head>
+
+    <body>
+        <h1>express.static() is working</h1>
+        <p>EJS or Embedded Javascript Templating is a templating engine used by Node.js</p>
+        <p>The template engine helps to create an HTML template with minimal code.</p>
+        <p>Also, it can inject data into the HTML template on the client side and produce the final HTML.</p>
+    </body>
+
+</html>
+Server listening on port:  3000
+
+labuser@ubuntu2204:~/Desktop/frameworkexpress$ node errorHandling.js 
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Handling Error States</title>
+    </head>
+
+    <body>
+        <h1>app.render() is working</h1>
+    </body>
+
+</html>
+Server listening on port:  3000
